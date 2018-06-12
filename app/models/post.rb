@@ -18,3 +18,4 @@ class Post < ActiveRecord::Base
     self.title = self.title.titlecase
   end
 end
+###update to save...
